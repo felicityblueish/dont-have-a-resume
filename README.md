@@ -1,11 +1,10 @@
 # Don't have a resume?
 
-✅ If you **don't have a resume** readily available, we got you:
+If you **don't have a resume** readily available, we got you:
 
-**A.** To create a portfolio website now use one of the following ways:
-  1. Visit https://aptifolio.com/new to create your portfolio using a prompt about yourself, experience, skills, contact etc, or copy paste your GitHub profile README code or using your LinkedIn bio. (**Recommended**)
+**A.** To create a portfolio website use one of the following ways:
+  1. Create using a prompt about yourself, experience, skills, contact etc, or copy paste your GitHub profile README code or using your LinkedIn bio - You will find this as an option when creating your portfolio. (**Recommended**)
   2. Visit LinkedIn to download a resume based on your profile to use it. 
-  2. Use the resume pdf template we've attached.
 
 <br>
 
@@ -16,6 +15,10 @@
 
 <br>
 
+**Other Additional Tips**
+- Keep your GitHub profile updated with your latest projects and achievements.
+- Build every day.
+
+<br>
+
 **Happy Building!! ❤**
-## Additional Tip
-Keep your GitHub profile updated with your latest projects and achievements.
